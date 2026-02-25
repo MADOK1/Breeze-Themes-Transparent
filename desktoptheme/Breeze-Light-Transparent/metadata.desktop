@@ -1,16 +1,25 @@
-[ContrastEffect]
-contrast=0.2
-enabled=true
-intensity=2.0
-saturation=1.7
+#[Appearance]
+# This tells Plasma to ignore the theme's built-in contrast hints
+#Enabled=true
 
-[Desktop Entry]
-X-KDE-PluginInfo-Author=Maddock Pearson
-X-KDE-PluginInfo-Category=Plasma Theme
-X-KDE-PluginInfo-Email=maddockpearson@gmail.com
-X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=LGPL 2.1+
-X-KDE-PluginInfo-Name=Maddock Plasma
-X-KDE-PluginInfo-Version=0.1.71
-X-KDE-PluginInfo-Website=john.com
-X-Plasma-API=5.0
+#[ContrastEffect]
+#contrast=1
+#enabled=true
+#intensity=1.0
+#saturation=1.0
+
+#[BlurControls]
+#enabled=true
+#blurRadius=20
+#noiseStrength=0
+
+#[Desktop Entry]
+#X-KDE-PluginInfo-Author=Maddock Pearson
+#X-KDE-PluginInfo-Category=Plasma Theme
+#X-KDE-PluginInfo-Email=maddockpearson@gmail.com
+#X-KDE-PluginInfo-EnabledByDefault=true
+#X-KDE-PluginInfo-License=LGPL 2.1+
+#X-KDE-PluginInfo-Name=Maddock Plasma
+#X-KDE-PluginInfo-Version=0.1.71
+#X-KDE-PluginInfo-Website=john.com
+#X-Plasma-API=5.0

@@ -6,7 +6,7 @@
    height="64"
    viewBox="0 0 157 64"
    width="157"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="background.svg"
    version="1.1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,14 +24,14 @@
      inkscape:pagecheckerboard="1"
      inkscape:blackoutopacity="0.0"
      showgrid="true"
-     inkscape:current-layer="left"
+     inkscape:current-layer="g1"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="16.138031"
-     inkscape:cx="31.819248"
+     inkscape:cx="31.85023"
      inkscape:cy="28.659011"
-     inkscape:window-width="1920"
-     inkscape:window-height="1127"
+     inkscape:window-width="3440"
+     inkscape:window-height="1373"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -39,7 +39,10 @@
        type="xygrid"
        id="grid988"
        originx="0"
-       originy="4" />
+       originy="4"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs15">
@@ -192,7 +195,7 @@
      id="shadow-bottomright-9"
      transform="translate(95,48)" />
   <g
-     id="left"
+     id="g1"
      transform="translate(0,16)">
     <rect
        id="hint-tile-center"
@@ -207,13 +210,13 @@
       <rect
          id="rect4152"
          height="6"
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          class="ColorScheme-Background"
          width="32"
          x="0"
          y="0" />
       <path
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          d="M 0,0 V 1 H 32 V 0 Z"
          id="path1337"
          class="ColorScheme-Background"
@@ -225,13 +228,13 @@
       <rect
          id="rect4148"
          height="6"
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          class="ColorScheme-Background"
          width="32"
          x="0"
          y="0" />
       <path
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          d="M 0,5 V 6 H 32 V 5 Z"
          id="path1671"
          class="ColorScheme-Background"
@@ -242,13 +245,13 @@
       <rect
          id="rect4144"
          height="32"
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          class="ColorScheme-Background"
          width="6"
          x="0"
          y="0" />
       <path
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          d="M 0,32 H 1 V 0 H 0 Z"
          id="path1785"
          class="ColorScheme-Background"
@@ -260,13 +263,13 @@
       <rect
          id="rect4140"
          height="32"
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          class="ColorScheme-Background"
          width="6"
          x="0"
          y="0" />
       <path
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          d="M 5,32 H 6 V 0 H 5 Z"
          id="path1902"
          class="ColorScheme-Background"
@@ -278,7 +281,7 @@
       <rect
          id="rect4138"
          height="32"
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          class="ColorScheme-Background"
          width="32"
          x="0"
@@ -289,7 +292,7 @@
        transform="translate(0,-6)">
       <path
          d="M 0,6 H 6 V 0 C 2,0 0,2 0,6 Z"
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          class="ColorScheme-Background"
          id="path3115"
          sodipodi:nodetypes="cccc" />
@@ -299,7 +302,7 @@
        transform="translate(38,-6)">
       <path
          d="M 0,0 V 6 H 6 C 6,2 4,0 0,0 Z"
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          class="ColorScheme-Background"
          id="path3118"
          sodipodi:nodetypes="cccc" />
@@ -309,7 +312,7 @@
        transform="translate(0,32)">
       <path
          d="M 6,6 V 0 H 0 c 0,4 2,6 6,6 z"
-         style="opacity:0.3;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          class="ColorScheme-Background"
          id="path3124"
          sodipodi:nodetypes="cccc" />
@@ -319,7 +322,7 @@
        transform="translate(38,32)">
       <path
          d="M 0,6 V 0 H 6 C 6,4 4,6 0,6 Z"
-         style="opacity:0.3  ;fill:currentColor"
+         style="opacity:0.0;fill:currentColor"
          class="ColorScheme-Background"
          id="path3121"
          sodipodi:nodetypes="cccc" />
